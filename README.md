@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is  my first repository.
 <br>
-Author - Shrurti jain
+Author - Shrurti jain (apna college)
