@@ -1,2 +1,4 @@
 # apnacollege-demo
-my first repo
+this is  my first repository.
+<br>
+Author - Shrurti jain
